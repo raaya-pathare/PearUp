@@ -1,2 +1,0 @@
-# PearUp
-Sickest application ever

@@ -1,0 +1,2 @@
+-make a file to store classmates
+-define a classmate object with properties
